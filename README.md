@@ -30,7 +30,7 @@ Libraries and Tools of this project:
 - mysql-connector-java-8.0.19.jar
 - scene builder
 - mysql server 
-- netbean editor
+- NetBeans IDE 8.2
 - VS Code installed plugin
   - Markdown All in one
   - Markdown preview
